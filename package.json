@@ -1,0 +1,49 @@
+{
+  "name": "servidorweb",
+  "description": "Servidor web de pruebas",
+  "main": ".servidor",
+  "author": {
+    "name": "Francisco Blanco"
+  },
+  "version": "0.9.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PacoBlanco/servidorweb"
+  },
+  "bugs": {
+    "url": "https://github.com/PacoBlanco/servidorweb/issues"
+  },
+  "licenses": [
+    {
+      "type": "Apache License 2.0",
+      "url": "https://github.com/PacoBlanco/servidorweb/blob/master/LICENSE"
+    }
+  ],
+  "devDependencies": {
+    "async": ">0.0.0"
+  },
+  "jam": {
+    "main": "servidor.js",
+    "include": [
+      "servidor.js",
+      "LICENSE"
+    ]
+  },
+  "homepage": "https://github.com/PacoBlanco/servidorweb",
+  "_id": "servidorweb@0.9.0",
+  "dist": {
+    "shasum": "ac3613b1da9bed1b47510bb4651b8931e47146c7",
+    "tarball": "http://registry.npmjs.org/servidorweb/-/servidorweb-0.9.0.tgz"
+  },
+  "_from": "servidorweb@",
+  "_npmVersion": "1.4.28",
+  "maintainers": [
+    {
+      "name": "PacoBlanco,
+      "email": "fcojavibr@.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "ac3613b1da9bed1b47510bb4651b8931e47146c7",
+  "_resolved": "https://registry.npmjs.org/servidorweb/-/servidorweb-0.9.0.tgz"
+}
